@@ -32,7 +32,7 @@
 <br />
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=MoAdelAbdelrahman&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/MoAdelAbdelrahman?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momen7&layout=compact&theme=radical)](https://github.com/MoAdelAbdelrahman?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAdelAbdelrahman&layout=compact&theme=radical)](https://github.com/MoAdelAbdelrahman?tab=repositories)
 
 
 <!--
