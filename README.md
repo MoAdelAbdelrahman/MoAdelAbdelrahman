@@ -7,7 +7,7 @@
 -   Solid computational thinking, and ICT knowledge.
 -   Proficiency with algorithms and data structures.
 -   Strong knowledge of OOP.
--   Good problem solving skills, currently working on Competitve Programming.
+-   Good problem solving skills, currently working on Competitive Programming.
 -   Lives in Cairo, Egypt.
 
 ### Languages:
