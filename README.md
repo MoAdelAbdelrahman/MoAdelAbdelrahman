@@ -1,13 +1,12 @@
 ### Hey there, I'm [Mohamed](https://www.github.com/MoAdelAbdelrahman)! 👋
 
-## Computer Science Student, passionate about Software development.
+## Computer Science Student, passionate about Software development and AI.
 
--   Third Year Computer Science Student at Ain Shams University.
+-   4th year Computer Science Student at Ain Shams University.
 -   Solid in C, C++, C#, and Java.
--   Solid computational thinking, and ICT knowledge.
 -   Proficiency with algorithms and data structures.
--   Strong knowledge of OOP.
--   Good problem solving skills, currently working on Competitive Programming.
+-   Strong problem solving skills.
+-   Android and ASP MVC 5 developer.
 -   Lives in Cairo, Egypt.
 
 ### Languages:
@@ -23,10 +22,16 @@
 </br>
 
 
+## Featured projects
+ - [Red-Eye, Egypt's first official smart cities hackathon winner.](https://github.com/MoAdelAbdelrahman/EgySmartCitiesHackathon)
+ - [Sorting Visualizer](https://moumen7.github.io/Sorting_Visualizer)
+ - [IMadelB](https://github.com/MoAdelAbdelrahman/IMadelB)
+ - [AI-F50s](https://github.com/MoAdelAbdelrahman/AI-F50s)
+ - [Syringe](https://github.com/MoAdelAbdelrahman/Vezeeta-Clone)
 
-### Projects
+### Other Projects
 
-  - Check out some of my projects: [Medical E-Commerce Android App](https://github.com/MoAdelAbdelrahman/Vezeeta-Clone) - [Steganography Tool](https://github.com/MoAdelAbdelrahman/OOP20-Project) - [Super Mario GO!](https://github.com/MoAdelAbdelrahman/Super-Mario-Game) - [OOP Command Line App](https://github.com/MoAdelAbdelrahman/Java-Command-Line-App) .
+  - check out more of my projects [Medical E-Commerce Android App](https://github.com/MoAdelAbdelrahman/Vezeeta-Clone) - [Steganography Tool](https://github.com/MoAdelAbdelrahman/OOP20-Project) - [Super Mario GO! - SP'19 best project](https://github.com/MoAdelAbdelrahman/Super-Mario-Game) - [OOP Command Line App](https://github.com/MoAdelAbdelrahman/Java-Command-Line-App) .
 
 
 <br />
