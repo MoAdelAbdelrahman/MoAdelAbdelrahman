@@ -1,13 +1,6 @@
 ### Hey there, I'm [Mohamed](https://www.github.com/MoAdelAbdelrahman)! 👋
 
-## Computer Science Student, passionate about Software development and AI.
 
--   4th year Computer Science Student at Ain Shams University.
--   Solid in C, C++, C#, and Java.
--   Proficiency with algorithms and data structures.
--   Strong problem solving skills.
--   Android and ASP MVC 5 developer.
--   Lives in Cairo, Egypt.
 
 ### Languages:
 
